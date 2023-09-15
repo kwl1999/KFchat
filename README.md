@@ -6,7 +6,7 @@ rm -rf *
 cmake ..
 make
 
-必要条件：
+运行程序的必要条件：
 nginx的TCP负载均衡
 启动redis
 boost+muduo/json(json.hpp已提供)/mysql/cmake环境

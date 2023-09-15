@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/chatserver.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/chatservice.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/main.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/main.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/db/db.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmoel.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/model/friendmoel.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/model/friendmoel.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/model/groupmodel.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/model/usermodel.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/kong/coding/kkchat/KFchat/src/server/redis/redis.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/kong/coding/kkchat/KFchat/build/src/client",
+  "command": "/usr/bin/c++   -I/home/kong/coding/kkchat/KFchat/include -I/home/kong/coding/kkchat/KFchat/include/server -I/home/kong/coding/kkchat/KFchat/include/server/db -I/home/kong/coding/kkchat/KFchat/include/server/model -I/home/kong/coding/kkchat/KFchat/include/server/redis -I/home/kong/coding/kkchat/KFchat/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/kong/coding/kkchat/KFchat/src/client/main.cpp",
+  "file": "/home/kong/coding/kkchat/KFchat/src/client/main.cpp"
+}
+]

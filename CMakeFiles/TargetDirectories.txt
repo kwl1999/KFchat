@@ -1,0 +1,10 @@
+/home/kong/coding/kkchat/KFchat/CMakeFiles/rebuild_cache.dir
+/home/kong/coding/kkchat/KFchat/CMakeFiles/edit_cache.dir
+/home/kong/coding/kkchat/KFchat/src/CMakeFiles/rebuild_cache.dir
+/home/kong/coding/kkchat/KFchat/src/CMakeFiles/edit_cache.dir
+/home/kong/coding/kkchat/KFchat/src/server/CMakeFiles/rebuild_cache.dir
+/home/kong/coding/kkchat/KFchat/src/server/CMakeFiles/edit_cache.dir
+/home/kong/coding/kkchat/KFchat/src/server/CMakeFiles/ChatServer.dir
+/home/kong/coding/kkchat/KFchat/src/client/CMakeFiles/rebuild_cache.dir
+/home/kong/coding/kkchat/KFchat/src/client/CMakeFiles/edit_cache.dir
+/home/kong/coding/kkchat/KFchat/src/client/CMakeFiles/ChatClient.dir
