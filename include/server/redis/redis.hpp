@@ -7,7 +7,7 @@
 using namespace std;
 
 /*
-redis作为集群服务器通信的基于发布-订阅消息队列时，会遇到两个难搞的bug问题。可以去施磊老师的博客看下解决方案
+redis作为集群服务器通信的基于发布-订阅消息队列时，会遇到两个难搞的bug问题。可以去施磊老师的博客看下解决方案.
 https://blog.csdn.net/QIANGWEIYUAN/article/details/97895611
 */
 class Redis
@@ -35,7 +35,7 @@ public:
     void init_notify_handler(function<void(int, string)> fn);
 
 private:
-    // hiredis同步上下文对象，负责publish消息
+    // hiredis同步上下文对象，负责publish消息(为什么是两个呢？--阻塞)
     redisContext *_publish_context;
 
     // hiredis同步上下文对象，负责subscribe消息
